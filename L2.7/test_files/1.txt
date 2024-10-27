@@ -1,0 +1,5 @@
+name	age	country
+Alice	30	USA
+Bob	25	UK
+Charlie	35	Canada
+HELLO, ITS, meeee, JI
